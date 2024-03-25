@@ -17,9 +17,29 @@ public class GenerateInfoFiles {
         DatosVendedores.add("Documento: C.C. 009, Nombre: Pablo Silva");
         DatosVendedores.add("Documento: C.C. 010, Nombre: Nicolas Mora");
 
-       System.out.println("Datos de los vendedores:");
-       for (String datos : DatosVendedores) {
+        System.out.println("Datos de los vendedores:");
+        for (String datos : DatosVendedores) {
         System.out.println(datos);
-    }
+     }
+
+        ArrayList<String> productos = new ArrayList<>();
+
+        // Agregar productos a la lista
+        productos.add("ID11, Cuaderno argollado cuadriculado pequeño, 12000");
+        productos.add("ID12, Esfero negro marca BIC, 2000");
+        productos.add("ID13, Lápiz mirado 2, 3000");
+        productos.add("ID14, Post It color morado mediano, 5000");
+        productos.add("ID15, Post It color amarillo pequeño, 12000");
+        productos.add("ID16, Resma de hojas tamaño carta, 40000");
+        productos.add("ID17, Regla 30 cm, 6000");
+        productos.add("ID18, Libreta de notas mediana argollada, 15000");
+        productos.add("ID19, Sobre manila tamaño oficio, 200");
+        productos.add("ID20, Sobre manila tamaño carta, 100");
+
+        // Imprimir los productos
+        System.out.println("Productos:");
+        for (String producto : productos) {
+            System.out.println(producto);
+        }
     }
 }
