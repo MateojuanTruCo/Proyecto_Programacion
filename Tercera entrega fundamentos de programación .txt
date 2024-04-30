@@ -1,0 +1,19 @@
+Entrega 3
+Resumen de los aspectos del proyecto:
+
+1. Lo aprendido durante el desarrollo del proyecto. 
+
+Durante el desarrollo del proyecto, aprendimos la importancia de seguir estándares de documentación en Java para garantizar la comprensión del código por parte de otros desarrolladores. Mejorando nuestras habilidades en prácticas de programación, especialmente en el nombramiento y espaciado de variables, lo que contribuye a la legibilidad y mantenibilidad del código. 
+Al implementar la funcionalidad para crear archivos de reporte de ventas de vendedores y de productos vendidos, adquirimos experiencia en manejar la manipulación y ordenamiento de datos en Java, así como en la generación de archivos CSV. 
+En resumen, el proyecto nos brindó la oportunidad de mejorar mis habilidades en programación Java, documentación de código y manejo de archivos, así como comprender la importancia de prácticas de desarrollo de software como la modularidad y la capacidad de prueba.
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y practicados durante el desarrollo del proyecto.
+
+El estudio del módulo nos proporcionó herramientas para dimensionar los aspectos donde podemos aplicarlas; es así, como a nivel empresarial podemos apoyar en el mejoramiento de aplicativos ya existentes y en proponer nuevos que nos ayuden a optimizar las tareas.  A nivel de emprendimiento es posible desarrollar juegos si estamos pensando en incursionar en el mundo de video juegos y en general es posible desarrollar nuevas alternativas de solución en la vida diaria.
+Fue valioso entender los diferentes conceptos de la programación, el contexto de Java dentro del mundo de los lenguajes de programación, las funciones y la importancia de los contenedores de datos.
+
+3. Las dificultades presentadas durante el desarrollo del proyecto.
+
+Las dificultades que tuvimos fue que no todos sabíamos de programación no teníamos bases, un poco en la comunicación ya que hay compañeros que trabajan y casi no podían contestar los mensajes a tiempo y hacer las actividades con días de anticipación.
+También presentamos dificultades para repartirnos los puntos de las actividades, la confusión que se tenía si hacer del código en Studio Code o en eclipse, otra situación fue instalar el programa de eclipse, los errores durante la creación del código. Pero se pudieron solucionar todos los percances presentados durante las 2 actividades del desarrollo del proyecto. 
+
